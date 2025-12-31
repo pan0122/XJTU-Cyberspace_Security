@@ -1,4 +1,4 @@
-# COMP40082701 信息安全数学基础
+# COMP400827 信息安全数学基础
 
 - 授课老师：李吉亮    [李 吉亮 - 教师个人主页](https://gr.xjtu.edu.cn/en/web/jiliang.li)
 
